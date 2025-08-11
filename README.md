@@ -19,4 +19,4 @@
 
 ### Links
 
-- Live Site URL: [@Netlify]()
+- Live Site URL: [@Netlify](https://simplesoundb.netlify.app/)
